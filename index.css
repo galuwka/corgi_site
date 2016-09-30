@@ -45,6 +45,9 @@ label {
   text-align:right;
   font-weight:bold;
   }
+textarea {
+    width: 40%;
+}
 .submit {
       text-align: right;
 }
