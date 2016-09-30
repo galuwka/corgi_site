@@ -1,0 +1,58 @@
+body {
+    font:15px georgia, sans-serif;
+    letter-spacing: 1px;
+}
+#main {
+    position: relative;
+    padding:10px;
+    margin: 10px;
+}
+.link a {     
+	   border-right:1px solid #000;
+}
+
+.link a {
+	  margin-right: 10px;
+      font-size: medium;
+	  padding: 10px;
+}
+h2 {
+    text-align: center;
+}
+video {
+  display: block;
+  margin: 0 auto;
+}
+#about>img {
+      display: block;
+      margin: 0 auto;
+}
+#usrform {
+      width: 400px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+}
+fieldset {
+  padding: 1em;
+  font:80%/1 georgia, sans-serif;
+  }
+label {
+  float:left;
+  width:25%;
+  margin-right:0.5em;
+  padding-top:0.2em;
+  text-align:right;
+  font-weight:bold;
+  }
+.submit {
+      text-align: right;
+}
+
+footer hr {
+    position: absolute;
+    left: 0;
+    width: 50%;
+}
+    
+

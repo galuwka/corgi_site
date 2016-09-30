@@ -1,0 +1,25 @@
+header {
+	    position: relative;
+        margin: 0px;
+       }
+.social {
+	     position: absolute;
+	     right: 0;
+}       
+.logo img{
+    width: 25%;
+    height: auto;
+    
+}
+h1 {
+	display: inline-block;
+	margin:0 auto;
+	text-align: center;
+	font:60px georgia, sans-serif;
+	padding-top: 120px;
+	padding-bottom: 120px;
+}
+nav {
+    display: inline-block;
+	margin:0 auto;
+}
