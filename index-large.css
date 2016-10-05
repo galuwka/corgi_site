@@ -15,7 +15,8 @@ header {
 	    float:left;
 	    margin: 0;
 }
-nav {   
+nav { 
+	
 	position: absolute;
 	top:200px;
     right: 20px;
@@ -27,7 +28,7 @@ h1 {
 	display: inline-block;
 	margin:0 auto;
 	text-align: center;
-	font:400% georgia, sans-serif;
+	font:60px georgia, sans-serif;
 	padding-top: 120px;
 	padding-bottom: 120px;
 }
