@@ -1,6 +1,6 @@
 body {
-     min-width: 1070px;
-     max-width: 1200px;
+    position: relative;
+    min-width: 500px;
     font:15px georgia, sans-serif;
     letter-spacing: 1px;
 }
