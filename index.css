@@ -1,6 +1,7 @@
 body {
     position: relative;
     min-width: 500px;
+    max-width: 1200px;
     font:15px georgia, sans-serif;
     letter-spacing: 1px;
 }
