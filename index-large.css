@@ -10,7 +10,7 @@ header {
 }
 	
 .logo img {
- 	    width: 400px;
+ 	    width: 30%;
         height: auto;
 	    float:left;
 	    margin: 0;
@@ -19,7 +19,7 @@ nav {
 	
 	position: absolute;
 	top:200px;
-    right: 20px;
+    right: 10%;
     float:right;
 	
     
@@ -32,6 +32,7 @@ h1 {
 	padding-top: 120px;
 	padding-bottom: 120px;
 }
+
 
 
 	

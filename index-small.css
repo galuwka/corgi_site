@@ -1,3 +1,7 @@
+*{
+	margin: 0;
+	padding: 0;
+}
 header {
 	    position: relative;
         margin: 0px;
@@ -5,7 +9,11 @@ header {
 .social {
 	     position: absolute;
 	     right: 0;
-}       
+}   
+.link {
+	position: relative;
+	left:0;
+}
 .logo img{
     width: 40%;
     height: auto;
@@ -22,4 +30,11 @@ h1 {
 nav {
     display: inline-block;
 	margin:0 auto;
+}
+#video{
+	width: 40%;
+	
+}
+#usrform{
+	width: 40%;
 }

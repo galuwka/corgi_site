@@ -3,7 +3,6 @@
 }
 body {
     position: relative;
-    min-width: 500px;
     max-width: 1200px;
     font:15px georgia, sans-serif;
     letter-spacing: 1px;
@@ -26,15 +25,19 @@ h2 {
     text-align: center;
 }
 video {
+  position: relative;
+  width: 50%;
   display: block;
   margin: 0 auto;
 }
 #about>img {
+      position: relative;
       display: block;
       margin: 0 auto;
 }
 #usrform {
-      width: 400px;
+      position: relative;
+      width: 40%;
       height: auto;
       display: block;
       margin: 0 auto;
@@ -62,6 +65,9 @@ footer hr {
     position: absolute;
     left: 0;
     width: 50%;
+}
+.link{
+    position: absolute;
 }
     
 
