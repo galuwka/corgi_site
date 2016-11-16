@@ -1,3 +1,6 @@
+* {
+    margin: 0 auto;
+}
 body {
     position: relative;
     min-width: 500px;
